@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div className="home">
       <header className="home-header">
-        <h1>Welcome to Krishak</h1>
+        <h1>Welcome to FarmaTech</h1>
         <p>Your one-stop solution for agriculture predictions</p>
       </header>
       <section id="models" className="models">
